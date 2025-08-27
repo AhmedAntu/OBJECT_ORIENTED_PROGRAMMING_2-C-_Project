@@ -1,0 +1,494 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Inventory Management System\\InventoryMngSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\customersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\customersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\managesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\managesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|d:\\inventory management system\\inventorymngsys\\inventorymngsys\\customersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\customersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\managesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\managesupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\updatepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\supplierinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\supplierinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\supplierinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\supplierinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\manageproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\customersinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\customersinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\productinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\productinfo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\manageusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\manageusers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\manageproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AE69214-325C-4CD2-804A-3BAC2BA972A5}|InventoryMngSys\\InventoryMngSys.csproj|solutionrelative:inventorymngsys\\manageproducts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inventorymngsys\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Inventory Management System\\InventoryMngSys\\inventorymngsys\\managecustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:inventorymngsys\\managecustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageSupplier.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageSupplier.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageSupplier.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageSupplier.cs",
+              "RelativeToolTip": "InventoryMngSys\\ManageSupplier.cs",
+              "ViewState": "AgIAAM0AAAAAAAAAAAA0wO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:21:27.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Login.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\Login.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Login.cs",
+              "RelativeToolTip": "InventoryMngSys\\Login.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:16:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\CustomersInfo.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\CustomersInfo.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\CustomersInfo.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\CustomersInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:14:46.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\AdminDashBoard.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\AdminDashBoard.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\AdminDashBoard.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\AdminDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:38:41.087Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageUsers.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageUsers.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageUsers.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\ManageUsers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:29:31.374Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\DataAccess.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\DataAccess.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\DataAccess.cs",
+              "RelativeToolTip": "InventoryMngSys\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T18:10:17.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageProducts.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageProducts.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageProducts.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageProducts.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\ManageProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:06:46.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Login.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\Login.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Login.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:11:27.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomersInfo.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\CustomersInfo.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\CustomersInfo.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\CustomersInfo.cs",
+              "RelativeToolTip": "InventoryMngSys\\CustomersInfo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:20:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\Program.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Program.cs",
+              "RelativeToolTip": "InventoryMngSys\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:56:59.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManageSupplier.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageSupplier.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageSupplier.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageSupplier.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\ManageSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:21:22.362Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDashBoard.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\AdminDashBoard.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\AdminDashBoard.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\AdminDashBoard.cs",
+              "RelativeToolTip": "InventoryMngSys\\AdminDashBoard.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:38:48.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDashBoard.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UserDashBoard.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\UserDashBoard.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UserDashBoard.cs",
+              "RelativeToolTip": "InventoryMngSys\\UserDashBoard.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwDcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:20:28.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatePassword.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UpdatePassword.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\UpdatePassword.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UpdatePassword.cs",
+              "RelativeToolTip": "InventoryMngSys\\UpdatePassword.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:06:55.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserDashBoard.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UserDashBoard.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\UserDashBoard.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UserDashBoard.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\UserDashBoard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:52:39.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdatePassword.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UpdatePassword.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\UpdatePassword.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\UpdatePassword.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\UpdatePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:06:19.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ProductInfo.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ProductInfo.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\ProductInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:26:43.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierInfo.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\SupplierInfo.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\SupplierInfo.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\SupplierInfo.cs",
+              "RelativeToolTip": "InventoryMngSys\\SupplierInfo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T05:40:45.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ProductInfo.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ProductInfo.cs",
+              "RelativeToolTip": "InventoryMngSys\\ProductInfo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wC4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:30:23.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageUsers.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageUsers.cs",
+              "RelativeToolTip": "InventoryMngSys\\ManageUsers.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:26:38.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SupplierInfo.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\SupplierInfo.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\SupplierInfo.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\SupplierInfo.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\SupplierInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:35:57.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ManageProducts.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageProducts.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageProducts.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageProducts.cs",
+              "RelativeToolTip": "InventoryMngSys\\ManageProducts.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvzsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:08:03.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomersInfo.Designer.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\CustomersInfo.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\CustomersInfo.Designer.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\CustomersInfo.Designer.cs",
+              "RelativeToolTip": "InventoryMngSys\\CustomersInfo.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAlwD8BAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:22:30.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductInfo.Designer.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ProductInfo.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ProductInfo.Designer.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ProductInfo.Designer.cs",
+              "RelativeToolTip": "InventoryMngSys\\ProductInfo.Designer.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAlwB0BAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T23:28:15.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ManageUsers.Designer.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageUsers.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageUsers.Designer.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageUsers.Designer.cs",
+              "RelativeToolTip": "InventoryMngSys\\ManageUsers.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwGUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T15:31:58.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\Login.Designer.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Login.Designer.cs",
+              "RelativeToolTip": "InventoryMngSys\\Login.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAwLYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T19:17:23.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageProducts.Designer.cs",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageProducts.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageProducts.Designer.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageProducts.Designer.cs",
+              "RelativeToolTip": "InventoryMngSys\\ManageProducts.Designer.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAlwH4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:12:44.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Form1.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\Form1.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\Form1.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T16:56:36.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ManageCustomers.cs [Design]",
+              "DocumentMoniker": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageCustomers.cs",
+              "RelativeDocumentMoniker": "InventoryMngSys\\ManageCustomers.cs",
+              "ToolTip": "D:\\Inventory Management System\\InventoryMngSys\\InventoryMngSys\\ManageCustomers.cs [Design]",
+              "RelativeToolTip": "InventoryMngSys\\ManageCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T17:07:25.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
